@@ -13,4 +13,3 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 This is our journal of food, fun, and family fotos. 
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
